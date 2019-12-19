@@ -10,3 +10,5 @@ Al seleccionar una mesa esta misma cambia su estado para quedar como "Ocupada" y
 
 
 Los datos se obtienen realizando consultas internas a un servicio REST API
+
+![](Gif-Ejemplos/ejemplo1.gif)
