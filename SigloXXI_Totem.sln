@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SigloXXI_Totem", "SigloXXI_Totem.csproj", "{BB5B1DCF-2623-4F89-8F85-8B9CC35254D0}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup\Setup.vdproj", "{D52BA6B6-FDC2-4626-B282-5A46A119F736}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB5B1DCF-2623-4F89-8F85-8B9CC35254D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB5B1DCF-2623-4F89-8F85-8B9CC35254D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB5B1DCF-2623-4F89-8F85-8B9CC35254D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB5B1DCF-2623-4F89-8F85-8B9CC35254D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D52BA6B6-FDC2-4626-B282-5A46A119F736}.Debug|Any CPU.ActiveCfg = Debug
+		{D52BA6B6-FDC2-4626-B282-5A46A119F736}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A63B299-92FE-4555-9738-5169455394ED}
+	EndGlobalSection
+EndGlobal

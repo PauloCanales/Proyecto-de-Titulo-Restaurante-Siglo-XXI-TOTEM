@@ -1,0 +1,2 @@
+http://localhost:8082/api/mesa-controller/list-disponible
+http://localhost:8082/api/mesa-controller/update-estado/

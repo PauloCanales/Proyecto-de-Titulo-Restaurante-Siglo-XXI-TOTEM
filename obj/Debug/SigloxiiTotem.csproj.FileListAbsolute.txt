@@ -1,0 +1,45 @@
+D:\Trabajos_Paulo\Portafolio Grupo 1\Apps\SigloxiiTotem\bin\Debug\SigloxiiTotem.exe.config
+D:\Trabajos_Paulo\Portafolio Grupo 1\Apps\SigloxiiTotem\bin\Debug\SigloxiiTotem.exe
+D:\Trabajos_Paulo\Portafolio Grupo 1\Apps\SigloxiiTotem\bin\Debug\SigloxiiTotem.pdb
+D:\Trabajos_Paulo\Portafolio Grupo 1\Apps\SigloxiiTotem\obj\Debug\SigloxiiTotem.csprojAssemblyReference.cache
+D:\Trabajos_Paulo\Portafolio Grupo 1\Apps\SigloxiiTotem\obj\Debug\SigloxiiTotem.Form1.resources
+D:\Trabajos_Paulo\Portafolio Grupo 1\Apps\SigloxiiTotem\obj\Debug\SigloxiiTotem.Properties.Resources.resources
+D:\Trabajos_Paulo\Portafolio Grupo 1\Apps\SigloxiiTotem\obj\Debug\SigloxiiTotem.csproj.GenerateResource.cache
+D:\Trabajos_Paulo\Portafolio Grupo 1\Apps\SigloxiiTotem\obj\Debug\SigloxiiTotem.exe
+D:\Trabajos_Paulo\Portafolio Grupo 1\Apps\SigloxiiTotem\obj\Debug\SigloxiiTotem.pdb
+E:\Trabajos_Paulo\Portafolio Grupo 1\Apps\SigloxiiTotem\bin\Debug\SigloxiiTotem.exe.config
+E:\Trabajos_Paulo\Portafolio Grupo 1\Apps\SigloxiiTotem\bin\Debug\SigloxiiTotem.exe
+E:\Trabajos_Paulo\Portafolio Grupo 1\Apps\SigloxiiTotem\bin\Debug\SigloxiiTotem.pdb
+E:\Trabajos_Paulo\Portafolio Grupo 1\Apps\SigloxiiTotem\obj\Debug\SigloxiiTotem.csprojAssemblyReference.cache
+E:\Trabajos_Paulo\Portafolio Grupo 1\Apps\SigloxiiTotem\obj\Debug\SigloxiiTotem.Form1.resources
+E:\Trabajos_Paulo\Portafolio Grupo 1\Apps\SigloxiiTotem\obj\Debug\SigloxiiTotem.Properties.Resources.resources
+E:\Trabajos_Paulo\Portafolio Grupo 1\Apps\SigloxiiTotem\obj\Debug\SigloxiiTotem.csproj.GenerateResource.cache
+E:\Trabajos_Paulo\Portafolio Grupo 1\Apps\SigloxiiTotem\obj\Debug\SigloxiiTotem.exe
+E:\Trabajos_Paulo\Portafolio Grupo 1\Apps\SigloxiiTotem\obj\Debug\SigloxiiTotem.pdb
+D:\Trabajos_Paulo\Portafolio Grupo 1\Apps\sigloXIItotem\obj\Debug\SigloxiiTotem.Confirmacion.resources
+C:\Users\KayZa\Desktop\SigloxiiTotem\bin\Debug\SigloxiiTotem.exe.config
+C:\Users\KayZa\Desktop\SigloxiiTotem\bin\Debug\SigloxiiTotem.exe
+C:\Users\KayZa\Desktop\SigloxiiTotem\bin\Debug\SigloxiiTotem.pdb
+C:\Users\KayZa\Desktop\SigloxiiTotem\obj\Debug\SigloxiiTotem.csprojAssemblyReference.cache
+C:\Users\KayZa\Desktop\SigloxiiTotem\obj\Debug\SigloxiiTotem.Confirmacion.resources
+C:\Users\KayZa\Desktop\SigloxiiTotem\obj\Debug\SigloxiiTotem.Form1.resources
+C:\Users\KayZa\Desktop\SigloxiiTotem\obj\Debug\SigloxiiTotem.Properties.Resources.resources
+C:\Users\KayZa\Desktop\SigloxiiTotem\obj\Debug\SigloxiiTotem.csproj.GenerateResource.cache
+C:\Users\KayZa\Desktop\SigloxiiTotem\obj\Debug\SigloxiiTotem.exe
+C:\Users\KayZa\Desktop\SigloxiiTotem\obj\Debug\SigloxiiTotem.pdb
+C:\Users\KayZa\Desktop\SigloxiiTotem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\KayZa\Desktop\SigloxiiTotem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\KayZa\Desktop\SigloxiiTotem\obj\Debug\SigloxiiTotem.csproj.CopyComplete
+D:\Trabajos_Paulo\Portafolio Grupo 1\SigloxiiTotem\bin\Debug\SigloxiiTotem.exe.config
+D:\Trabajos_Paulo\Portafolio Grupo 1\SigloxiiTotem\bin\Debug\SigloxiiTotem.exe
+D:\Trabajos_Paulo\Portafolio Grupo 1\SigloxiiTotem\bin\Debug\SigloxiiTotem.pdb
+D:\Trabajos_Paulo\Portafolio Grupo 1\SigloxiiTotem\bin\Debug\Newtonsoft.Json.dll
+D:\Trabajos_Paulo\Portafolio Grupo 1\SigloxiiTotem\bin\Debug\Newtonsoft.Json.xml
+D:\Trabajos_Paulo\Portafolio Grupo 1\SigloxiiTotem\obj\Debug\SigloxiiTotem.csprojAssemblyReference.cache
+D:\Trabajos_Paulo\Portafolio Grupo 1\SigloxiiTotem\obj\Debug\SigloxiiTotem.Confirmacion.resources
+D:\Trabajos_Paulo\Portafolio Grupo 1\SigloxiiTotem\obj\Debug\SigloxiiTotem.Form1.resources
+D:\Trabajos_Paulo\Portafolio Grupo 1\SigloxiiTotem\obj\Debug\SigloxiiTotem.Properties.Resources.resources
+D:\Trabajos_Paulo\Portafolio Grupo 1\SigloxiiTotem\obj\Debug\SigloxiiTotem.csproj.GenerateResource.cache
+D:\Trabajos_Paulo\Portafolio Grupo 1\SigloxiiTotem\obj\Debug\SigloxiiTotem.csproj.CopyComplete
+D:\Trabajos_Paulo\Portafolio Grupo 1\SigloxiiTotem\obj\Debug\SigloxiiTotem.exe
+D:\Trabajos_Paulo\Portafolio Grupo 1\SigloxiiTotem\obj\Debug\SigloxiiTotem.pdb
