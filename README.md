@@ -10,5 +10,23 @@ Al seleccionar una mesa esta misma cambia su estado para quedar como "Ocupada" y
 
 
 Los datos se obtienen realizando consultas internas a un servicio REST API
+y dependiendo de las mesas obtenidas en la consulta se generan nuevos botones con caracteristicas dinamicas, cada boton generado dinamicamente posee un nombre, capacidad y evento distinto
 
-![](Gif-Ejemplos/ejemplo1.gif)
+Solo se enseñan las mesas que tienen asignadas un garzón. 
+
+Al apretar "Seleccionar Mesa" se actualizan las mesas con garzones asignados 
+
+<b> En este ejemplo hay 5 mesas asignadas a garzones y una mesa ya ocupada (Mesa 2)
+![Demo 1](Gif-Demo/ejemplo1.gif)
+
+<b> Al seleccionar una mesa aparecerá un ventana de confirmación y al aceptar se enseña una nueva pantalla informando al usuario que la mesa ha sido seleccionada con exito y puede dirigirse a ella
+![Demo 2](Gif-Demo/ejemplo2.gif)
+
+
+
+
+
+La aplicación esta preparada para recibir una cantidad ilimitada de mesas en la consulta y así generar todas las mesas que puedan ser necesarias por el restaurante (se pueden generar infinitos botones).
+*posible bug-fix* que solo se pueda mover la interfaz dependiendo de la cantidad de mesas 
+  
+![Demo 3](Gif-Demo/ejemplo3.gif)
